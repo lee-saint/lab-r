@@ -1,0 +1,1 @@
+load("data/fire_weather.rda")
